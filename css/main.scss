@@ -39,6 +39,8 @@ $jumbotron-font: #445875;
 
 .jumbotron {
   border-radius: 0rem;
+  background-color: $jumbotron-background;
+  color: $jumbotron-font;
 }
 
 .jumbotron.image {
