@@ -6,9 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Articles
+title: Our Story
 ---
 
-# Articles
-
-{% include all-posts.html %}
+Here is our story...
