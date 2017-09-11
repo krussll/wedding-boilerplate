@@ -7,17 +7,14 @@ $nav-font: #24292e;
 $jumbotron-background: #fff;
 $jumbotron-font: #445875;
 
-.bd-navbar {
-  min-height: 4rem;
-  background-color: $nav-background;
-  border-bottom-color: #2e3d54;
-  box-shadow: none;
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
 }
 
-.navbar-nav {
-  margin: auto;
-  padding-right: .5rem;
-  padding-left: .5rem;
+.navbar .navbar-collapse {
+  text-align: center;
 }
 
 .navbar-nav .nav-item .nav-link {
