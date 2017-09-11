@@ -7,6 +7,14 @@ $nav-font: #24292e;
 $jumbotron-background: #fff;
 $jumbotron-font: #445875;
 
+body {
+  font-family: 'Alice', serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+}
+
 #bd-main-nav {
   display: inline-block;
   margin: 0 auto;
